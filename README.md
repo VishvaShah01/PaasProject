@@ -109,7 +109,7 @@ Things you may want to cover:
 5. After finishing all of this just complete the steps to finish the setup
 
 
-**Step 9: Heroku Deployment**
+**Step 11: Heroku Deployment**
 1. In this step, we are going to deploy the files from github
     1. `$ get config --global user.name "<Your Name Here (Vishva Shah)>"`
     2. `$ get config --global user.email "<Sample Mail ID Here (W0784026@myscc.ca)>"`
@@ -125,3 +125,45 @@ Things you may want to cover:
 5. After that you can see the 5o articles with 10 commnets each are seeded.
 
 **Finally the Paas Project is completed**
+
+
+**README**
+
+10/7/22
+1300 - Created assignemnt 3 as per the instructions
+1305 - Select the disk 20.4 ubuntu desktop
+1340 - It took almost an hour to load ubuntu VM desktop 
+1345 - After this, Login into ubuntu desktop account
+1400 - run the codes I mentioned in the step 2- ubuntu desktop configration and setup 
+1400 - Download the folder from the Black bord from the PaasProject folder called "paas_code"
+        extract it and leave it right now
+1430 - Will do some google search just to get to knwo how to perform next steps 
+
+12/7/22
+0900 - Download the jetbrain ruby from the link and leave it right now 
+        Moving forward to the next step
+1030 - Download CURL as per the step 4
+1125 - Everything is going good without any error 
+Let go ahead
+
+13/7/22
+1800 - Install RVM in ubuntu desktop and follow all the steps which is declared in step 5
+2000 - After completing step 5, now I am going to move for step 6.
+        Which is installation RUBY
+2030 - Now I am goint to install Bundler
+2100 - Now I am going to install Rails
+2120 - Installation of GitHub
+
+In sort, I preformed 6-9 steps just for installtion
+
+2140 - Now go ahead with the step 10 to setup the paas project
+2200 - Now preforming the last step to deploy heroku
+2215 - getting an error tht Heroku with the use of college's email id
+        Configure it
+2220 - Check authorized the github in heroku and deploy it
+2230 - Run the commands again on the Heraku account step 10, 4th point
+2240 - Evrything runs perfectly and there is no errors
+2242 - Get 50 Articles with ech 10 comments on it.
+2245 - Finally the project is finished..
+
+Hurryyyyyy....... :)
